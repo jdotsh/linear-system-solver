@@ -28,7 +28,7 @@ In base alla sistema operativo che si sta utilizzando (sistemi UnixLike o varie 
 I file di testo devono presentarsi nella seguente forma:
 nomefile.txt
   * Inserire la dimensione della matrice n nella prima riga
-	* Successivamente vengono letti i primi (n)x(n+1) coefficienti della matrice completa con ultima colonna il vettore dei termini noti
+  * Successivamente vengono letti i primi (n)x(n+1) coefficienti della matrice completa con ultima colonna il vettore dei termini noti
 
 ### Gauss()
 Questa funzione implementa il metodo numerico per il calcolo del vettore soluzione di un sistema rappresentato da una matrice completa del tipo [A|B].Il sottoprogramma inizia con una prima valutazione della matrice per mezzo di due cicli for annidati e una condizione if per valutare se effettivamente il sistema ammetta soluzioni, tale operazione comporta una complessità θ(n^2).
