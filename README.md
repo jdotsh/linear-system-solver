@@ -1,7 +1,7 @@
-# Implementazione ed Analisi di algoritmi per la risoluzione di sistemi lineari (C++)
+# Implementazione ed Analisi di algoritmi per la risoluzione di sistemi lineari
 
 ## Abstract:
-L’obiettivo di questa relazione riguarda l’implementazione dei tre principali algoritmi per la risoluzione di sistemi lineari, ovvero il metodo diretto di Gauss e i due metodi iterativi Jacobi e Gauss-Seidel, in linguaggio di programmazione (C++). Durante la scrittura abbiamo prestato particolare attenzione alla complessità computazionale. 
+L’obiettivo di questa relazione riguarda l’implementazione dei tre principali algoritmi per la risoluzione di sistemi lineari, ovvero il metodo diretto di Gauss e i due metodi iterativi Jacobi e Gauss-Seidel, in linguaggio di programmazione C++. Durante la scrittura abbiamo prestato particolare attenzione alla complessità computazionale. 
 
 ## Complessità computazionale:
 La complessità computazionale è un indice di efficienza di un algoritmo, essa può essere suddivisa in complessità spaziale e complessità temporale. In questa discussione ci occuperemo della seconda, in quanto il tempo rappresenta una risorsa non riutilizzabile, mentre la quantità di memoria occupata risulta trascurabile poiché riutilizzabile e soprattutto perché grazie alle odierne tecnologie, volte a risolvere problemi ben più complessi della semplice risoluzioni di sistemi lineari, disponiamo di una vastissima capacità di memoria-dati.
