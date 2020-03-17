@@ -11,7 +11,7 @@ Basandoci sul modello ideale di Macchina ad accesso casuale (RAM) e considerando
 
 Il programma è composto da un unico file sorgente, il main e una serie di sottofunzioni che offrono all’utente un’interfaccia essenziale e funzionale con un menù a selezione e la possibilità di acquisire le matrici da un file di testo a patto che sia presente nella directory da dove viene lanciato l’eseguibile del programma.
 
-## Calcolo della complessità computazionale di ciascuna sottofunzione presente nel sorgente:
+## Calcolo della complessità computazionale:
 
 ### pausa()
 Una funzione che arresta i processi permettendo all’utente di visualizzare i risultati delle precedenti operazioni. È volta esclusivamente ad ottimizzare l’esperienza dell’utente ed è costituita da una semplice istruzione condizionale contenente operazioni a costo unitario. Ciò permette di ottenere una complessità computazionale pari all’incirca a θ(1), pertanto una tale procedura, sebbene non abbia alcuno scopo funzionale, non pregiudica assolutamente la tempistica dei sottoprogrammi in cui viene richiamata.
